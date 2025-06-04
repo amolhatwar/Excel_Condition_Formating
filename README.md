@@ -6,7 +6,7 @@ Applied Conditional Formatting in Excel to highlight scores, gender, and data pa
 <img src="https://github.com/amolhatwar/Excel_Condition_Formating/blob/9793f54fcb882d36360060b5db5deaaef4c0545b/Question.png" alt="image Description" Width="600">
 <br>
 
-[!Condition_Formating_Image]
+[!Conditional_Formating_Image]
 
 <img src="https://github.com/amolhatwar/Excel_Condition_Formating/blob/9793f54fcb882d36360060b5db5deaaef4c0545b/Solution.png" alt="image Description" Width="600">
 <br>
